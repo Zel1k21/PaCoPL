@@ -19,7 +19,7 @@ class Provided_parts:
         self.part_id = part_id
 
 providers = {
-    Provider(1, "Nvidea"),
+    Provider(1, "Nvidia"),
     Provider(2, "Asus"),
     Provider(3, "Corsair"),
     Provider(4, "Kingston"),
